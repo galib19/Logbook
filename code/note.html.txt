@@ -1,0 +1,4 @@
+https://www.w3schools.com/howto/howto_js_todolist.asp
+
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_todo
+http://theburningmonk.com/2011/01/creating-a-sticky-note-app-with-html5-css3-and-javascript/
